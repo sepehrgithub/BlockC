@@ -1,5 +1,4 @@
 # BlockC The New Virtual Assistant
-# Virtual Assistant [Hydron]
 
 <p align="center">
   <a href="https://github.com/sepehrgithub/BlockC/issues">
